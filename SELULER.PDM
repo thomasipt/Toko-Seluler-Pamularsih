@@ -1,0 +1,493 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Dep File 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=O:\Master Thomas\ITS Seluler\Aplikasi
+
+[Package|Dep File 1|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=Yes
+Excel=Yes
+Text=Yes
+Jet 2.x=Yes
+Paradox=Yes
+
+[Package|Dep File 1|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|Dep File 1|Files Found]
+p2bact.dll=C:\WINDOWS\Crystal\p2bact.dll
+
+[Package|Dep File 1|Files Released]
+
+[Package|Dep File 1|Missing Dependency Information]
+C:\WINDOWS\system32\actskin4.ocx=
+C:\Program Files\Common Files\System\ado\msjro.dll=
+C:\WINDOWS\system32\msstdfmt.dll=
+
+[Package|Dep File 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\mscomct2.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\MSRDO20.DLL=
+
+[Package|Dep File 1|Files Added]
+
+[Package|Dep File 1|Files Removed]
+
+[Package|Dep File 1|Files In Project]
+O:\Master Thomas\ITS Seluler\Aplikasi\SELULER.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\MSRDO20.DLL=Yes
+C:\WINDOWS\system32\RDOCURS.DLL=Yes
+C:\WINDOWS\system32\odbc32.dll=Yes
+C:\WINDOWS\system32\DAO350.DLL=Yes
+C:\WINDOWS\system32\MSJET35.DLL=Yes
+C:\WINDOWS\system32\MSJTER35.DLL=Yes
+C:\WINDOWS\system32\MSJINT35.DLL=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\MSRD2X35.DLL=Yes
+C:\WINDOWS\system32\MSREPL35.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\WINDOWS\system32\msstdfmt.dll=Yes
+C:\Program Files\Common Files\System\ado\msjro.dll=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+O:\Master Thomas\SMS\MSADO15.DLL=Yes
+C:\WINDOWS\system32\actskin4.ocx=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\mscomct2.ocx=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\crystl32.ocx=Yes
+C:\WINDOWS\system32\crpe32.dll=Yes
+C:\WINDOWS\system32\IMPLODE.DLL=Yes
+C:\WINDOWS\system32\ccsdk32.dll=Yes
+C:\WINDOWS\system32\crpaig32.dll=Yes
+C:\WINDOWS\system32\CRXLAT32.DLL=Yes
+C:\WINDOWS\Crystal\p2bact.dll=Yes
+C:\WINDOWS\Crystal\p2bbde.dll=Yes
+C:\WINDOWS\system32\p2bbnd.dll=Yes
+C:\WINDOWS\Crystal\p2bbtrv.dll=Yes
+C:\WINDOWS\system32\p2bdao.dll=Yes
+C:\WINDOWS\Crystal\p2bxbse.dll=Yes
+C:\WINDOWS\Crystal\p2ctbtrv.dll=Yes
+C:\WINDOWS\system32\p2ctdao.dll=Yes
+C:\WINDOWS\Crystal\p2iract.dll=Yes
+C:\WINDOWS\system32\p2irdao.dll=Yes
+C:\WINDOWS\Crystal\p2ixbse.dll=Yes
+C:\WINDOWS\Crystal\p2lodbc.dll=Yes
+C:\WINDOWS\Crystal\p2oesbse.dll=Yes
+C:\WINDOWS\Crystal\p2sacl.dll=Yes
+C:\WINDOWS\Crystal\p2sdb2.dll=Yes
+C:\WINDOWS\system32\p2sevt.dll=Yes
+C:\WINDOWS\Crystal\p2sexsr.dll=Yes
+C:\WINDOWS\Crystal\p2sifmx.dll=Yes
+C:\WINDOWS\Crystal\p2smapi.dll=Yes
+C:\WINDOWS\system32\p2smon.dll=Yes
+C:\WINDOWS\system32\p2sodbc.dll=Yes
+C:\WINDOWS\Crystal\p2sora7.dll=Yes
+C:\WINDOWS\Crystal\p2soutlk.dll=Yes
+C:\WINDOWS\Crystal\p2srepl.dll=Yes
+C:\WINDOWS\Crystal\p2ssql.dll=Yes
+C:\WINDOWS\Crystal\p2ssyb10.dll=Yes
+C:\WINDOWS\Crystal\p2strack.dll=Yes
+C:\WINDOWS\Crystal\p2swblg.dll=Yes
+C:\WINDOWS\system32\U2DDISK.DLL=Yes
+C:\WINDOWS\system32\U2DMAPI.DLL=Yes
+C:\WINDOWS\Crystal\u2dnotes.dll=Yes
+C:\WINDOWS\Crystal\u2dpost.dll=Yes
+C:\WINDOWS\Crystal\u2dvim.dll=Yes
+C:\WINDOWS\system32\U2FCR.DLL=Yes
+C:\WINDOWS\system32\U2FDIF.DLL=Yes
+C:\WINDOWS\system32\U2FHTML.DLL=Yes
+C:\WINDOWS\Crystal\u2fodbc.dll=Yes
+C:\WINDOWS\Crystal\u2frdef.dll=Yes
+C:\WINDOWS\system32\U2FREC.DLL=Yes
+C:\WINDOWS\system32\U2FRTF.DLL=Yes
+C:\WINDOWS\system32\U2FSEPV.DLL=Yes
+C:\WINDOWS\system32\U2FTEXT.DLL=Yes
+C:\WINDOWS\system32\U2FWKS.DLL=Yes
+C:\WINDOWS\system32\U2FWORDW.DLL=Yes
+C:\WINDOWS\system32\U2FXLS.DLL=Yes
+C:\WINDOWS\Crystal\u25dts.dll=Yes
+C:\WINDOWS\Crystal\u25store.dll=Yes
+C:\WINDOWS\Crystal\u25total.dll=Yes
+C:\WINDOWS\Crystal\u2l2000.dll=Yes
+C:\WINDOWS\Crystal\u2lbar.dll=Yes
+C:\WINDOWS\Crystal\u2lcom.dll=Yes
+C:\WINDOWS\Crystal\u2ldts.dll=Yes
+C:\WINDOWS\Crystal\u2lesbse.dll=Yes
+C:\WINDOWS\Crystal\u2lexch.dll=Yes
+C:\WINDOWS\Crystal\u2lfinra.dll=Yes
+C:\WINDOWS\Crystal\u2lsamp1.dll=Yes
+C:\WINDOWS\system32\MSEXCL35.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\WINDOWS\system32\MSPDOX35.DLL=Yes
+C:\WINDOWS\system32\MSTEXT35.DLL=Yes
+C:\WINDOWS\system32\MSXBSE35.DLL=Yes
+
+[Package|Dep File 1|Configure Registry Files]
+Applicable=
+
+[Package|Dep File 1|Configure Remote Servers]
+Applicable=
+
+[Package|Dep File 1|Install Locations]
+O:\Master Thomas\ITS Seluler\Aplikasi\SELULER.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\odbc32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\system32\msstdfmt.dll=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msjro.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+O:\Master Thomas\SMS\MSADO15.DLL=$(CommonFilesSys)\ADO
+C:\WINDOWS\system32\actskin4.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\mscomct2.ocx=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\crystl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\crpe32.dll=$(WinSysPath)
+C:\WINDOWS\system32\IMPLODE.DLL=$(WinSysPath)
+C:\WINDOWS\system32\ccsdk32.dll=$(WinSysPath)
+C:\WINDOWS\system32\crpaig32.dll=$(WinSysPath)
+C:\WINDOWS\system32\CRXLAT32.DLL=$(WinSysPath)
+C:\WINDOWS\Crystal\p2bact.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2bbde.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2bbnd.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2bbtrv.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2bdao.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2bxbse.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2ctbtrv.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2ctdao.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2iract.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2irdao.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2ixbse.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2lodbc.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2oesbse.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2sacl.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2sdb2.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2sevt.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2sexsr.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2sifmx.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2smapi.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2smon.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2sodbc.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2sora7.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2soutlk.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2srepl.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2ssql.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2ssyb10.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2strack.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2swblg.dll=$(WinSysPath)
+C:\WINDOWS\system32\U2DDISK.DLL=$(WinSysPath)
+C:\WINDOWS\system32\U2DMAPI.DLL=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dnotes.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dpost.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dvim.dll=$(WinSysPath)
+C:\WINDOWS\system32\U2FCR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\U2FDIF.DLL=$(WinSysPath)
+C:\WINDOWS\system32\U2FHTML.DLL=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fodbc.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2frdef.dll=$(AppPath)
+C:\WINDOWS\system32\U2FREC.DLL=$(WinSysPath)
+C:\WINDOWS\system32\U2FRTF.DLL=$(WinSysPath)
+C:\WINDOWS\system32\U2FSEPV.DLL=$(WinSysPath)
+C:\WINDOWS\system32\U2FTEXT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\U2FWKS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\U2FWORDW.DLL=$(WinSysPath)
+C:\WINDOWS\system32\U2FXLS.DLL=$(WinSysPath)
+C:\WINDOWS\Crystal\u25dts.dll=$(AppPath)
+C:\WINDOWS\Crystal\u25store.dll=$(AppPath)
+C:\WINDOWS\Crystal\u25total.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2l2000.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2lbar.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2lcom.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ldts.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2lesbse.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2lexch.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2lfinra.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2lsamp1.dll=$(AppPath)
+C:\WINDOWS\system32\MSEXCL35.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\WINDOWS\system32\MSPDOX35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSTEXT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSXBSE35.DLL=$(WinSysPathSysFile)
+
+[Package|Dep File 1|Configure Shared Files]
+Applicable=
+
+[Package|Dep File 1|DepFile]
+DepCabFile=SELULER.CAB
+DepCabRun=SELULER.INF
+
+[Package|Dep File 1|Package]
+PackageFolder=O:\Master Thomas\ITS Seluler\Aplikasi
+ProjectFolder=O:\Master Thomas\ITS Seluler
+ServerSideCab=
+File1=O:\Master Thomas\ITS Seluler\Aplikasi\SELULER.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=F:\Master Semarang\ITS Seluler Pamularsih\Setup
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+p2bact.dll=C:\WINDOWS\Crystal\p2bact.dll
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\WINDOWS\system32\actskin4.ocx=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package 1|Files Added]
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+F:\Master Semarang\ITS Seluler Pamularsih\SELULER.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\actskin4.ocx=Yes
+C:\WINDOWS\system32\msrdo20.dll=Yes
+C:\WINDOWS\system32\rdocurs.dll=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\tabctl32.ocx=Yes
+C:\WINDOWS\system32\crystl32.ocx=Yes
+C:\WINDOWS\system32\crpe32.dll=Yes
+C:\WINDOWS\system32\implode.dll=Yes
+C:\WINDOWS\system32\ccsdk32.dll=Yes
+C:\WINDOWS\system32\crpaig32.dll=Yes
+F:\Master Semarang\ITS Seluler Pamularsih\crxlat32.dll=Yes
+C:\WINDOWS\Crystal\p2bact.dll=Yes
+C:\WINDOWS\Crystal\p2bbde.dll=Yes
+C:\WINDOWS\system32\p2bbnd.dll=Yes
+C:\WINDOWS\Crystal\p2bbtrv.dll=Yes
+C:\WINDOWS\system32\p2bdao.dll=Yes
+C:\WINDOWS\Crystal\p2bxbse.dll=Yes
+C:\WINDOWS\Crystal\p2ctbtrv.dll=Yes
+C:\WINDOWS\system32\p2ctdao.dll=Yes
+C:\WINDOWS\Crystal\p2iract.dll=Yes
+C:\WINDOWS\system32\p2irdao.dll=Yes
+C:\WINDOWS\Crystal\p2ixbse.dll=Yes
+C:\WINDOWS\Crystal\p2lodbc.dll=Yes
+C:\WINDOWS\Crystal\p2oesbse.dll=Yes
+C:\WINDOWS\Crystal\p2sacl.dll=Yes
+C:\WINDOWS\Crystal\p2sdb2.dll=Yes
+C:\WINDOWS\system32\p2sevt.dll=Yes
+C:\WINDOWS\Crystal\p2sexsr.dll=Yes
+C:\WINDOWS\Crystal\p2sifmx.dll=Yes
+C:\WINDOWS\Crystal\p2smapi.dll=Yes
+C:\WINDOWS\system32\p2smon.dll=Yes
+C:\WINDOWS\system32\p2sodbc.dll=Yes
+C:\WINDOWS\Crystal\p2sora7.dll=Yes
+C:\WINDOWS\Crystal\p2soutlk.dll=Yes
+C:\WINDOWS\Crystal\p2srepl.dll=Yes
+C:\WINDOWS\Crystal\p2ssql.dll=Yes
+C:\WINDOWS\Crystal\p2ssyb10.dll=Yes
+C:\WINDOWS\Crystal\p2strack.dll=Yes
+C:\WINDOWS\Crystal\p2swblg.dll=Yes
+C:\WINDOWS\Crystal\u2ddisk.dll=Yes
+C:\WINDOWS\Crystal\u2dmapi.dll=Yes
+C:\WINDOWS\Crystal\u2dnotes.dll=Yes
+C:\WINDOWS\Crystal\u2dpost.dll=Yes
+C:\WINDOWS\Crystal\u2dvim.dll=Yes
+C:\WINDOWS\Crystal\u2fcr.dll=Yes
+C:\WINDOWS\Crystal\u2fdif.dll=Yes
+C:\WINDOWS\Crystal\u2fhtml.dll=Yes
+C:\WINDOWS\Crystal\u2fodbc.dll=Yes
+C:\WINDOWS\Crystal\u2frdef.dll=Yes
+C:\WINDOWS\Crystal\u2frec.dll=Yes
+C:\WINDOWS\Crystal\u2frtf.dll=Yes
+C:\WINDOWS\Crystal\u2fsepv.dll=Yes
+C:\WINDOWS\Crystal\u2ftext.dll=Yes
+C:\WINDOWS\Crystal\u2fwks.dll=Yes
+C:\WINDOWS\Crystal\u2fwordw.dll=Yes
+C:\WINDOWS\Crystal\u2fxls.dll=Yes
+C:\WINDOWS\Crystal\u25dts.dll=Yes
+C:\WINDOWS\Crystal\u25store.dll=Yes
+C:\WINDOWS\Crystal\u25total.dll=Yes
+C:\WINDOWS\Crystal\u2l2000.dll=Yes
+C:\WINDOWS\Crystal\u2lbar.dll=Yes
+C:\WINDOWS\Crystal\u2lcom.dll=Yes
+C:\WINDOWS\Crystal\u2ldts.dll=Yes
+C:\WINDOWS\Crystal\u2lesbse.dll=Yes
+C:\WINDOWS\Crystal\u2lexch.dll=Yes
+C:\WINDOWS\Crystal\u2lfinra.dll=Yes
+C:\WINDOWS\Crystal\u2lsamp1.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+F:\Master Semarang\ITS Seluler Pamularsih\SELULER.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\actskin4.ocx=$(WinSysPath)
+C:\WINDOWS\system32\msrdo20.dll=$(WinSysPath)
+C:\WINDOWS\system32\rdocurs.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\crystl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\crpe32.dll=$(WinSysPath)
+C:\WINDOWS\system32\implode.dll=$(AppPath)
+C:\WINDOWS\system32\ccsdk32.dll=$(WinSysPath)
+C:\WINDOWS\system32\crpaig32.dll=$(WinSysPath)
+F:\Master Semarang\ITS Seluler Pamularsih\crxlat32.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2bact.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2bbde.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2bbnd.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2bbtrv.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2bdao.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2bxbse.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2ctbtrv.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2ctdao.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2iract.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2irdao.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2ixbse.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2lodbc.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2oesbse.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2sacl.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2sdb2.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2sevt.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2sexsr.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2sifmx.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2smapi.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2smon.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2sodbc.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2sora7.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2soutlk.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2srepl.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2ssql.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2ssyb10.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2strack.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2swblg.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ddisk.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dmapi.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dnotes.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dpost.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dvim.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fcr.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fdif.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fhtml.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fodbc.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2frdef.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2frec.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2frtf.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fsepv.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ftext.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fwks.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fwordw.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fxls.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u25dts.dll=$(AppPath)
+C:\WINDOWS\Crystal\u25store.dll=$(AppPath)
+C:\WINDOWS\Crystal\u25total.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2l2000.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2lbar.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2lcom.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ldts.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2lesbse.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2lexch.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2lfinra.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2lsamp1.dll=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+F:\Master Semarang\ITS Seluler Pamularsih\SELULER.exe=No
+C:\WINDOWS\system32\implode.dll=No
+C:\WINDOWS\Crystal\u2frdef.dll=No
+C:\WINDOWS\Crystal\u25dts.dll=No
+C:\WINDOWS\Crystal\u25store.dll=No
+C:\WINDOWS\Crystal\u25total.dll=No
+C:\WINDOWS\Crystal\u2lbar.dll=No
+C:\WINDOWS\Crystal\u2ldts.dll=No
+C:\WINDOWS\Crystal\u2lesbse.dll=No
+C:\WINDOWS\Crystal\u2lexch.dll=No
+C:\WINDOWS\Crystal\u2lfinra.dll=No
+C:\WINDOWS\Crystal\u2lsamp1.dll=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=APLIKASI SELULER IPT
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=APLIKASI SELULER IPT
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|APLIKASI SELULER IPT]
+Icon1=SELULER.exe
+Title1=APLIKASI SELULER IPT
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=F:\Master Semarang\ITS Seluler Pamularsih\Setup
+ProjectFolder=F:\Master Semarang\ITS Seluler Pamularsih
+ServerSideCab=
+File1=F:\Master Semarang\ITS Seluler Pamularsih\Setup\setup.exe
+File2=F:\Master Semarang\ITS Seluler Pamularsih\Setup\Setup.Lst
+File3=F:\Master Semarang\ITS Seluler Pamularsih\Setup\SELULER.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
